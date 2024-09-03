@@ -22,10 +22,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/azhar-rizqullah-535447309/">
-    <img src="https://img.shields.io/badge/-Azhar%20Rizqullah-0077B5?style=flat-square&logo=Linkedin&logoColor=white" width="120" height="40"/>
+    <img src="https://img.shields.io/badge/-Azhar%20Rizqullah-0077B5?style=flat-square&logo=Linkedin&logoColor=white" width="320" height="40"/>
   </a>
   <a href="https://www.instagram.com/_azhar_riz/">
-    <img src="https://img.shields.io/badge/-_azhar_riz-E4405F?style=flat-square&logo=Instagram&logoColor=white" width="120" height="40"/>
+    <img src="https://img.shields.io/badge/-_azhar_riz-E4405F?style=flat-square&logo=Instagram&logoColor=white" width="320" height="40"/>
   </a>
 </p>
 <!--
